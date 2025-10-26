@@ -56,6 +56,9 @@
 - [Snowpark 개요](https://docs.snowflake.com/en/developer-guide/snowpark/intro)
 
 ---
+### SnowPro Associate: Platform Certification 취득 완료 (2025.10.26)
+
+---
 
 ### ⚠️ 주의사항: 셀 실행 결과 미표시
 
