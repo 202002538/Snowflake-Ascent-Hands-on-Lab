@@ -1,12 +1,17 @@
 # ❄️ Snowflake Ascent 핸즈온랩 정리
 
-이 리포지토리는 **2024년 7월 22일**에 진행된 **Snowflake Ascent: Platform Education**에서 제공된 노트북과 자료를 담고 있습니다.
+이 리포지토리는 **2025년 7월 22일**에 진행된 **Snowflake Ascent: Platform Education**에서 제공된 노트북과 자료를 담고 있습니다.
 
 > **행사:** Ascent: Snowflake Platform Training - APAC - Korea   
-> **일자:** 2024년 7월 22일  
+> **일자:** 2025년 7월 22일  
 > **시간:** 13:00 – 17:30 KST  
 > **언어:** 한국어  
 > **지역:** APAC – 대한민국
+
+---
+
+## SnowPro Associate: Platform Certification 취득 완료 (2025.10.26)
+<img src="snowpro_associate_certification.png" alt="cetification" width="600" height="400">
 
 ---
 
@@ -54,9 +59,6 @@
 - [Snowflake 공식 문서](https://docs.snowflake.com/)
 - [Snowflake Cortex](https://www.snowflake.com/en/product/cortex/)
 - [Snowpark 개요](https://docs.snowflake.com/en/developer-guide/snowpark/intro)
-
----
-### SnowPro Associate: Platform Certification 취득 완료 (2025.10.26)
 
 ---
 
